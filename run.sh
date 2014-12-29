@@ -1,1 +1,1 @@
-python hello_world_test.py
+python test_HTMLTestRunner.py
